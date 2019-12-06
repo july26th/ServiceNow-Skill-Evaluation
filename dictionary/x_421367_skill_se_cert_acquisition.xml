@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Cert Acquisition" max_length="40" name="x_421367_skill_se_cert_acquisition" type="collection">
+        <element attributes="encode_utf8=false" label="Certificate" max_length="32" name="certificate" reference="x_421367_skill_se_certificate" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Certificate date" max_length="40" name="certificate_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Certificate number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ServiceNow release" max_length="40" name="servicenow_release" type="string"/>
+        <element attributes="encode_utf8=false" label="Submission" max_length="32" name="submission" read_only="true" reference="x_421367_skill_se_submission" type="reference"/>
+        <index name="index">
+            <element name="certificate"/>
+        </index>
+        <index name="index2">
+            <element name="submission"/>
+        </index>
+    </element>
+</database>

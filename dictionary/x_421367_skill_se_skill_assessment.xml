@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Skill Assessment" max_length="40" name="x_421367_skill_se_skill_assessment" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="0" label="Proficiency level" max_length="40" name="proficiency_level" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Conceptual/Trained" value="1"/>
+                <element inactive_on_update="false" label="Experienced" value="2"/>
+                <element inactive_on_update="false" label="Expert" value="3"/>
+                <element inactive_on_update="false" label="Guru" value="4"/>
+                <element inactive_on_update="false" label="N/A" value="0"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Skill" max_length="32" name="skill" reference="x_421367_skill_se_skill" type="reference"/>
+        <element attributes="encode_utf8=false" label="Submission" max_length="32" name="submission" reference="x_421367_skill_se_submission" type="reference"/>
+        <index name="index">
+            <element name="skill"/>
+        </index>
+        <index name="index2">
+            <element name="submission"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Skill Evaluation">77a1baecdbed00107bbffe1b6896199c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>SE Groups</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sys_user_group</name>
+        <order>5050</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_421367_skill_se.se_admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 02:54:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>44733664db2140107bbffe1b68961954</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>SE Groups</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Skill Evaluation" source="x_421367_skill_se">f2ed66acdbed00107bbffe1b689619dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">f2ed66acdbed00107bbffe1b689619dd</sys_scope>
+        <sys_update_name>sys_app_module_44733664db2140107bbffe1b68961954</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 07:29:44</sys_updated_on>
+        <timeline_page/>
+        <title>SE Groups</title>
+        <uncancelable>false</uncancelable>
+        <view_name>Default view</view_name>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skill Evaluation">f2ed66acdbed00107bbffe1b689619dd</application>
+        <file_path/>
+        <instance_id>883602c8db8edf0889535d00cf9619c4</instance_id>
+        <instance_name>dev58705</instance_name>
+        <name>sys_app_module_44733664db2140107bbffe1b68961954</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Skill Evaluation">77a1baecdbed00107bbffe1b6896199c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>SE Groups</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sys_user_group</name><order>5050</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_421367_skill_se.se_admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 02:54:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>44733664db2140107bbffe1b68961954</sys_id><sys_mod_count>8</sys_mod_count><sys_name>SE Groups</sys_name><sys_overrides/><sys_package display_value="Skill Evaluation" source="x_421367_skill_se">f2ed66acdbed00107bbffe1b689619dd</sys_package><sys_policy/><sys_scope display_value="Skill Evaluation">f2ed66acdbed00107bbffe1b689619dd</sys_scope><sys_update_name>sys_app_module_44733664db2140107bbffe1b68961954</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-04 07:29:44</sys_updated_on><timeline_page/><title>SE Groups</title><uncancelable>false</uncancelable><view_name>Default view</view_name><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-222754863</payload_hash>
+        <record_name>SE Groups</record_name>
+        <reverted_from/>
+        <source>f2ed66acdbed00107bbffe1b689619df</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 07:29:44</sys_created_on>
+        <sys_id>c33c78c9dba980107bbffe1b68961970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ecfd099f20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 07:29:44</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4f3c78c946a980104a8e6909217f2c6f</update_guid>
+        <update_guid_history>4f3c78c946a980104a8e6909217f2c6f:-222754863,519b30c5f7a98010facf11536f25326a:-846082119,296bf005e2a9801037000e93392e2caf:1537296281,fd2bf005a3a98010363df691c3ede383:1995086178,e17a704d8369801016c147ca56d1544d:-579038238,aa083089a32980102538cbf8f4ab3934:1995086178,5e77b84548298010de8d58b49c3ddd17:-200610310,e02ab83cc129401002bf89a52e4332b6:1434052730,66a3b6641f214010e7c511734026195e:-1700224357</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="SE Groups">bf8c7c4ddba980107bbffe1b6896199a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-04 07:31:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0195e988a424431ca5f4a4e786149499</sys_id>
+        <sys_metadata>44733664db2140107bbffe1b68961954</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SE Groups</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421367_skill_se">f2ed66acdbed00107bbffe1b689619dd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">f2ed66acdbed00107bbffe1b689619dd</sys_scope>
+        <sys_scope_delete display_value="">298672cf531940d687cf7b481d0dda44</sys_scope_delete>
+        <sys_update_name>sys_app_module_44733664db2140107bbffe1b68961954</sys_update_name>
+        <sys_update_version display_value="sys_app_module_44733664db2140107bbffe1b68961954">c33c78c9dba980107bbffe1b68961970</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-04 07:31:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Submission" max_length="40" name="x_421367_skill_se_submission" sizeclass="2" type="collection">
+        <element attributes="encode_utf8=false" label="Level" max_length="32" name="level" reference="x_421367_skill_se_level" type="reference"/>
+        <element label="Score" max_length="40" name="score" type="integer"/>
+        <element default="true" label="Valid" max_length="40" name="valid" read_only="true" type="boolean"/>
+    </element>
+</database>

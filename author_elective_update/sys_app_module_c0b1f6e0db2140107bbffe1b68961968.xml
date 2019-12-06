@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Skill Evaluation">77a1baecdbed00107bbffe1b6896199c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_421367_skill_se_certificate</name>
+        <order>9</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 02:45:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c0b1f6e0db2140107bbffe1b68961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Skill Evaluation" source="x_421367_skill_se">f2ed66acdbed00107bbffe1b689619dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">f2ed66acdbed00107bbffe1b689619dd</sys_scope>
+        <sys_update_name>sys_app_module_c0b1f6e0db2140107bbffe1b68961968</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 02:45:55</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skill Evaluation">f2ed66acdbed00107bbffe1b689619dd</application>
+        <file_path/>
+        <instance_id>883602c8db8edf0889535d00cf9619c4</instance_id>
+        <instance_name>dev58705</instance_name>
+        <name>sys_app_module_c0b1f6e0db2140107bbffe1b68961968</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Skill Evaluation">77a1baecdbed00107bbffe1b6896199c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>All</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_421367_skill_se_certificate</name><order>9</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 02:45:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c0b1f6e0db2140107bbffe1b68961968</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="Skill Evaluation" source="x_421367_skill_se">f2ed66acdbed00107bbffe1b689619dd</sys_package><sys_policy/><sys_scope display_value="Skill Evaluation">f2ed66acdbed00107bbffe1b689619dd</sys_scope><sys_update_name>sys_app_module_c0b1f6e0db2140107bbffe1b68961968</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 02:45:55</sys_updated_on><timeline_page/><title>All</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1833257580</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>f2ed66acdbed00107bbffe1b689619df</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 02:45:55</sys_created_on>
+        <sys_id>48b1f6e0db2140107bbffe1b68961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ec9a6663c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 02:45:55</sys_updated_on>
+        <type>Module</type>
+        <update_guid>80b1f6e06121401013293de4d1de9f69</update_guid>
+        <update_guid_history>80b1f6e06121401013293de4d1de9f69:-1833257580</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All">1f12fee0db2140107bbffe1b68961933</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 02:47:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>6f8b273eab984a069dc05a04e1957e91</sys_id>
+        <sys_metadata>c0b1f6e0db2140107bbffe1b68961968</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="Skill Evaluation" source="x_421367_skill_se">f2ed66acdbed00107bbffe1b689619dd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Skill Evaluation">f2ed66acdbed00107bbffe1b689619dd</sys_scope>
+        <sys_scope_delete display_value="">298672cf531940d687cf7b481d0dda44</sys_scope_delete>
+        <sys_update_name>sys_app_module_c0b1f6e0db2140107bbffe1b68961968</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c0b1f6e0db2140107bbffe1b68961968">48b1f6e0db2140107bbffe1b68961969</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 02:47:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
